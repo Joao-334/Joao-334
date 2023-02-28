@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Joao-334
 
 - 🔭 Atualmente Trabalho com Desenvolvimento fullstack
-- 🌱 Estudando React, Linux e PHP
+- 🌱 Estudando React, Linux
 - 😄 Pronouns: Ele/Dele
 
 <div>

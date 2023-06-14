@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Joao-334
+### Olá!! Eu sou o João!
 
 - 🔭 Atualmente Trabalho com Desenvolvimento fullstack
 - 🌱 Estudando React, Linux

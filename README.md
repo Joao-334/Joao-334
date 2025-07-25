@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o João!
 
-- 🔭 Atualmente Trabalho com Desenvolvimento fullstack no UNIFEB!
+- 🔭 Atualmente Trabalho com Desenvolvimento fullstack na Upside Solutions!!
 - 😄 Pronouns: Ele/Dele
 
 <div>
